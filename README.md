@@ -34,7 +34,7 @@ github release、archive以及项目文件的加速项目，支持clone，有Clo
 
 注册，登陆，`Start building`，取一个子域名，`Create a Worker`。
 
-复制 [index.js](https://github.com/xiaoyierle/js-proxy//index.js)  到左侧代码框，`Save and deploy`。如果正常，右侧应显示首页。
+复制 [index.js](https://github.com/xiaoyierle/js-proxy/index.js)  到左侧代码框，`Save and deploy`。如果正常，右侧应显示首页。
 
 `index.js`默认配置下clone走github.com.cnpmjs.org，项目文件会走jsDeliver，如需走worker，修改Config变量即可
 
